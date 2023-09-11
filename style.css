@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    text-transform: capitalize;
+}
+
+img {
+    width: 100%;
+    border: 5px solid whitesmoke;
+}
+
+.poster {
+    width: 60%;
+    margin-left: 20%;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+    color: whitesmoke;
+}
